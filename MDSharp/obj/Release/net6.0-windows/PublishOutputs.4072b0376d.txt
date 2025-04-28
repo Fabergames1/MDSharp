@@ -1,0 +1,17 @@
+C:\Trabalhos e arquivos\MDSharp\MDSharp.exe
+C:\Trabalhos e arquivos\MDSharp\MDSharp.dll
+C:\Trabalhos e arquivos\MDSharp\MDSharp.deps.json
+C:\Trabalhos e arquivos\MDSharp\MDSharp.runtimeconfig.json
+C:\Trabalhos e arquivos\MDSharp\MDSharp.pdb
+C:\Trabalhos e arquivos\MDSharp\NAudio.dll
+C:\Trabalhos e arquivos\MDSharp\NAudio.Asio.dll
+C:\Trabalhos e arquivos\MDSharp\NAudio.Core.dll
+C:\Trabalhos e arquivos\MDSharp\NAudio.Midi.dll
+C:\Trabalhos e arquivos\MDSharp\NAudio.Wasapi.dll
+C:\Trabalhos e arquivos\MDSharp\NAudio.WinForms.dll
+C:\Trabalhos e arquivos\MDSharp\NAudio.WinMM.dll
+C:\Trabalhos e arquivos\MDSharp\SharpDX.dll
+C:\Trabalhos e arquivos\MDSharp\SharpDX.D3DCompiler.dll
+C:\Trabalhos e arquivos\MDSharp\SharpDX.Direct3D12.dll
+C:\Trabalhos e arquivos\MDSharp\SharpDX.DirectInput.dll
+C:\Trabalhos e arquivos\MDSharp\SharpDX.DXGI.dll
